@@ -30,7 +30,7 @@ Impact of Power Cuts on Households (Donut Chart)
 
 TNEB Service Ratings Distribution
 
-Alternative Power Solutions Adoption (Donut Chart)
+Alternative Power Solutions Adoption (Pie Chart)
 
 AC/Heater Usage vs Electricity Cost
 
