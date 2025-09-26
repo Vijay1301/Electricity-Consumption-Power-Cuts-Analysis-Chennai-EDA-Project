@@ -22,7 +22,7 @@ Distribution of Residence Types
 
 Household Size by Residence Type
 
-Average Electricity Cost by Area (Top 10)
+Average Electricity Cost by Area
 
 Power Cut Frequency vs Duration
 
